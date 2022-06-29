@@ -1,9 +1,9 @@
 [
     {
         "id":"0",
-        "name":"Random Server",
-	    "ip": "66.70.180.111",
+        "name":"Hypixel",
+	    "ip": "104.17.71.15",
 	    "port": 25565,
-	    "img": "https://www.supercraft.com.es/img/logo.png"
+	    "img": "https://pbs.twimg.com/profile_images/1346968969849171970/DdNypQdN_400x400.png"
     }
 ]
