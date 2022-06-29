@@ -1,9 +1,9 @@
 [
     {
         "id":"0",
-        "name":"Hypixel",
-	    "ip": "104.17.71.15",
+        "name":"Minemen Club",
+	    "ip": "51.195.52.1",
 	    "port": 25565,
-	    "img": "https://pbs.twimg.com/profile_images/1346968969849171970/DdNypQdN_400x400.png"
+	    "img": "https://mcli.st/api/render/favicon/772ca6494b1071e45c7c9baa051d711bb8e29a4956c70caf83684c30941db947.png"
     }
 ]
