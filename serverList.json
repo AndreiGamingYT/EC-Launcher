@@ -1,9 +1,9 @@
 [
     {
         "id":"0",
-        "name":"Hypixel",
-	"ip": "mc.hypixel.net",
-	"port": 25565,
-	"img": "https://www.supercraft.com.es/img/logo.png"
+        "name":"Random Server",
+	    "ip": "66.70.180.111",
+	    "port": 25565,
+	    "img": "https://www.supercraft.com.es/img/logo.png"
     }
 ]
