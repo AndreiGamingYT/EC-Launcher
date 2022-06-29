@@ -1,0 +1,14 @@
+{
+    "maintenance": false,
+    "maintenance_message": "Updating the client...",
+    "client_id": "",
+    "game_version": "1.8.8",
+    "game_url": "http://www.lezard-client.com/storage/launcher-files/files/",
+    "custom": "MCP",
+    "verify": false,
+    "java": true,
+    "game_args": [],
+    "dataDirectory": "Eclipse Clientt",
+    "ignored": []
+}
+  
