@@ -2,7 +2,7 @@
     "version": "0.0.10",
     "packages": {
         "win64": {
-            "url": "https://github.com/AndreiGamingYT/EC-Launcher/releases/download/v1.0/eclipse-launcher-win-x64.zip"
+            "url": "https://github.com/AndreiGamingYT/EC-Launcher/releases/download/v0.0.10/eclipse-launcher-win-x64.zip"
         },
         "mac64": {
             "url": "https://github.com/MissionSteam504/Lezard-Launcher/releases/download/v0.0.10/lezard-launcher-mac-x64.zip"
