@@ -8,7 +8,7 @@
     "verify": false,
     "java": true,
     "game_args": [],
-    "dataDirectory": "Eclipse Clientt",
+    "dataDirectory": "lezard-client",
     "ignored": []
 }
   
