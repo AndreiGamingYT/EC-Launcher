@@ -1,14 +1,12 @@
 [
   {
-    "Sample":"StringValue", 
-    "Id": 1
+    "id": 0,
+    "title":"Welcome to Eclipse Client !",
+    "content":"Thanks for downloading our launcher !",
   },
   {
-    "Sample":"StringValue2", 
-    "Id": 2
-  },
-  {
-    "Sample":"StringValue3", 
-    "Id": 3
+    "id": 1,
+    "title":"Este maa",
+    "content":"Ieste ma merge .-.",
   }
 ]
