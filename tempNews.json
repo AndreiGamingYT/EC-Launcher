@@ -2,11 +2,17 @@
   {
     "id": 0,
     "title":"Welcome to Eclipse Client !",
-    "content":"Thanks for downloading our launcher !"
+    "content":"Thanks for downloading our launcher !",
+    "author":"AndreiGM18",
+    "link": "https://discord.gg/ByPzG9H9Qp",
+    "publish_date":"2023-01-28 12:45:20"
   },
   {
     "id": 1,
     "title":"Este maa",
-    "content":"Ieste ma merge .-."
+    "content":"Ieste ma merge .-.",
+    "author":"AndreiGM18",
+    "link": "https://discord.gg/ByPzG9H9Qp",
+    "publish_date":"2023-01-29 11:30:20"
   }
 ]
