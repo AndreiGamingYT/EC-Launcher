@@ -1,22 +1,32 @@
 [
   {
     "id": 0,
-    "title":"Welcome to Eclipse Client !",
-    "content":"Thanks for downloading our launcher !",
+    "title":"『Bug Fixes』(27.01.2023 updates)",
+    "content":"Bugs fixed, Updated settings",
     "author":"AndreiGM18",
     "link": "https://discord.gg/ByPzG9H9Qp",
-    "day": "28",
+    "day": "27",
     "month": "JAN",
-    "publish_date":"2023-01-28 12:45:20"
+    "publish_date":"2023-01-27 11:30:20"
   },
   {
     "id": 1,
-    "title":"Este maa",
-    "content":"Ieste ma merge .-.",
+    "title":"Eclipse Client v7b2",
+    "content":"Eclipse Client v7b2 is out now!",
     "author":"AndreiGM18",
     "link": "https://discord.gg/ByPzG9H9Qp",
-    "day": "29",
+    "day": "25",
     "month": "JAN",
-    "publish_date":"2023-01-29 11:30:20"
+    "publish_date":"2023-01-25 12:45:20"
+  },
+  {
+    "id": 2,
+    "title":"Welcome to Eclipse!",
+    "content":"Thanks for using our client!",
+    "author":"AndreiGM18",
+    "link": "https://discord.gg/ByPzG9H9Qp",
+    "day": "20",
+    "month": "JAN",
+    "publish_date":"2023-01-20 12:45:20"
   }
 ]
